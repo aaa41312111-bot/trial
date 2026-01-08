@@ -4,8 +4,6 @@
 // can be started during that time indicated by "ready"
 // signal.
 
-// Module name: reg_ctrl
-
 module reg_ctrl 
   # (
      parameter ADDR_WIDTH 	= 8,
