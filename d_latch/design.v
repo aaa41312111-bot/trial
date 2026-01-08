@@ -1,3 +1,5 @@
+// this is a new comment
+
 module d_latch (  input d,           // 1-bit input pin for data
                   input en,          // 1-bit input pin for enabling the latch
                   input rstn,        // 1-bit input pin for active-low reset
