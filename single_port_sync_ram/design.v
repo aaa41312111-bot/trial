@@ -1,7 +1,7 @@
 module single_port_sync_ram
   # (parameter ADDR_WIDTH = 4,
      parameter DATA_WIDTH = 32,
-     parameter DEPTH = 4
+     parameter DEPTH = 8
     )
 
   ( 	input 					clk,
