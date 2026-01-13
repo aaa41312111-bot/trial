@@ -1,3 +1,5 @@
+// Trial comment
+
 module top #(
     parameter WIDTH =4,
     parameter DEPTH =2)
